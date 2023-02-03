@@ -1,5 +1,5 @@
 # Leon-website-project-1-
-Html & css only
-My first website
+
+My first website; Html & css only
 Live demo :
 https://leon-website-project-1.vercel.app/
